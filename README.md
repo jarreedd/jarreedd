@@ -10,7 +10,22 @@ About me
 <p align="center"> :south_africa: 21 year old Software Developement Student from RSA</p>
 <p align="center"> Current I am studying at CodeSpace Academy</p>
 
-<h3> 
+
+<h2 align="center"> 
+Languages and Technologies
+</h2>
+
+* HTML
+* CSS
+* Git
+
+<h3>Currently/Planning on Learning:</h3>
+
+* JavaScript
+* React
+* Python
+
+<h2>
 Contact me at:
 </h2>
 
