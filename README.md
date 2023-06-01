@@ -7,7 +7,7 @@
 About me
 </h2>
 
-<p align="center"> 21 year old Software Developement Student from RSA:south_africa:</p>
+<p align="center">Software Developement Student from RSA:south_africa:</p>
 <p align="center"> Current I am studying at CodeSpace Academy</p>
 
 
