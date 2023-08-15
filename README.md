@@ -7,7 +7,7 @@
 About me
 </h2>
 
-<p align="center">I am a Software Developement Student from RSA:south_africa:, curruntly studying at CodeSpace Academy</p>
+<p align="center">I am a Graduate Software Developer from RSA:south_africa:y</p>
 <p align="center">I'm open to collaborating on frontend development projects</p>
 
 
