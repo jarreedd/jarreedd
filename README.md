@@ -7,7 +7,7 @@
 About me
 </h2>
 
-<p align="center">I am a Graduate Software Developer from RSA:south_africa:y</p>
+<p align="center">I am a Graduate Software Developer from RSA:south_africa:</p>
 <p align="center">I'm open to collaborating on frontend development projects</p>
 
 
@@ -29,7 +29,7 @@ Languages and Technologies
 I'm currently working on these projects
 </h2>
 
-- [Digital Resume](https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_ITW9.git)
+- [Digital Resume]([https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_ITW9.git](https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_DWA18.git))
 - [Book Connect](https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_IWA19.git)
 
 <h2>
