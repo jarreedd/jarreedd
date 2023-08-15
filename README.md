@@ -29,18 +29,12 @@ Languages and Technologies
 I'm currently working on these projects
 </h2>
 
-- [Digital Resume]([https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_ITW9.git](https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_DWA18.git))
-- [Book Connect](https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_IWA19.git)
-
+- [Book Connect](https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_IWA19.git) | a dynamic website showcasing book previews.
+- [Audio Sorcerer](https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_DWA18.git) | an academic capstone project, which is a podcast web app 
 <h2>
 Contact me at:
 </h2>
 
-✉️ [jarreedw@gmail.com](mailto:jarreedw@gmail.com)
+- Email: [jarreedw@gmail.com](mailto:jarreedw@gmail.com)
+- LinkedIn: [http://www.linkedin.com/in/jarreed-williams-284a0721a/](http://www.linkedin.com/in/jarreed-williams-284a0721a/)
 
-<h3>socials</h3>
- <a href="#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="20" title="LinkedIn"> LinkedIn </a>
- 
-<!---
-<a <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook"> href="#">
---->
