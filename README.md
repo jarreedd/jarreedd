@@ -36,5 +36,5 @@ Contact me at:
 
 - Email: [jarreedw@gmail.com](mailto:jarreedw@gmail.com)
 - LinkedIn: [http://www.linkedin.com/in/jarreed-williams-284a0721a/](http://www.linkedin.com/in/jarreed-williams-284a0721a/)
-- Website: [jarreedwilliams.com](https://preeminent-shortbread-219057.netlify.app/) - still in the development phase, missing functionality.
+- Website: [jarreedwilliams.com](https://jarreedwilliams.netlify.app/) - still in the development phase, missing functionality.
 
