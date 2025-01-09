@@ -1,14 +1,9 @@
-<div align="center">
-  👋Hi there!
+<div>
+  greetings!
   <h1>I'm Jarreed Williams</h1>
 </div>
 
-<h2 align="center"> 
-About me
-</h2>
-
-<p align="center">I am a Graduate Software Developer from RSA:south_africa:</p>
-<p align="center">I'm open to collaborating on frontend development projects</p>
+<p>I'm a Frontend Developer and Robotics student based in South Africa, open to collaborating on any frontend development projects</p>
 
 <h2 align="center"> 
 Languages and Technologies
@@ -36,5 +31,5 @@ Contact me at:
 
 - Email: [jarreedw@gmail.com](mailto:jarreedw@gmail.com)
 - LinkedIn: [http://www.linkedin.com/in/jarreed-williams-284a0721a/](http://www.linkedin.com/in/jarreed-williams-284a0721a/)
-- Website: [jarreedwilliams.com](https://jarreedwilliams.netlify.app/) - still in the development phase, missing functionality.
+- Website: [jarreedwilliams.com](https://jarreedwilliams.netlify.app/)
 
