@@ -1,35 +1,43 @@
-<div>
-  greetings!
-  <h1>I'm Jarreed Williams</h1>
-</div>
+## Jarreed Williams
 
-<p>I'm a Frontend Developer and Robotics student based in South Africa, open to collaborating on any frontend development projects</p>
+**`Frontend Developer`** • **`Robotics Student`**
 
-<h2 align="center"> 
-Languages and Technologies
-</h2>
+Developer open to collaborating on front-end dev projects while pursuing a career in web tech and robotics engineering. Currently studying Robotics at Boland College, South Africa, with a focus on embedded systems and autonomous robotics.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+***Currently Working On:***
+- Learning embedded systems and signal processing
+- Building an advanced task management web application to deepen frontend development skills 
+ <!-- (Learn-As-I-Build) building an over-complex to-do web app for educational frontend dev purposes. -->
 
-<h3>Tools:</h3>
+#
 
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+### *Tech Stack:*
 
-<h3>Currently/Planning on Learning:</h3>
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+</br></br></br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Drawio](https://img.shields.io/badge/drawio-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-<h2 align="center"> 
-I'm currently working on these projects
-</h2>
+#
 
-- [Book Connect](https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_IWA19.git) | a dynamic website showcasing book previews.
-- [Audio Sorcerer](https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_DWA18.git) | an academic capstone project, which is a podcast web app 
-<h2>
-Contact me at:
-</h2>
+<!-- ### *Projects:*
+- [Audio Sorcerer](https://github.com/jarreedd/JARWIL102_FTC2301_ftcNwabisaGroup_JarreedWilliams_DWA18.git) | Podcast streaming web application developed as an academic capstone project using modern frontend technologies. -->
 
-- Email: [jarreedw@gmail.com](mailto:jarreedw@gmail.com)
-- LinkedIn: [http://www.linkedin.com/in/jarreed-williams-284a0721a/](http://www.linkedin.com/in/jarreed-williams-284a0721a/)
-- Website: [jarreedwilliams.com](https://jarreedwilliams.netlify.app/)
+
+**Contact me via:** Email: [jarreedw@gmail.com](mailto:jarreedw@gmail.com) • LinkedIn: [jarreed-williams](http://www.linkedin.com/in/jarreed-williams-284a0721a/) • Website: [jarreedwilliams.netlify.app](https://jarreedwilliams.netlify.app/)
 
